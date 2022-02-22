@@ -1,2 +1,2 @@
 ini adalah kalimat "Hello dunia"
-hello
+hello 1
