@@ -1,3 +1,1 @@
 ini adalah kalimat "Hello dunia"
-
-mencoba push request melalui fork
